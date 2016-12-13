@@ -1,0 +1,6 @@
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\bin\Debug\TrialSpeech.exe.config
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\bin\Debug\TrialSpeech.exe
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\bin\Debug\TrialSpeech.pdb
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\obj\Debug\TrialSpeech.csprojResolveAssemblyReference.cache
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\obj\Debug\TrialSpeech.exe
+c:\users\eldhoabe\documents\visual studio 2013\Projects\TrialSpeech\TrialSpeech\obj\Debug\TrialSpeech.pdb
